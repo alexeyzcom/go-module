@@ -2,6 +2,8 @@ package app
 
 import "fmt"
 
-func start() {
-	fmt.Println("Start process")
+func Start() {
+	fmt.Println("*****************")
+	fmt.Println("* Start process *")
+	fmt.Println("*****************")
 }
